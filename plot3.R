@@ -1,4 +1,4 @@
-#Data
+#Plot3
 install.packages("dplyr")
 library(dplyr)
 if(!file.exists("exdata_data_household_power_consumption.zip")){
